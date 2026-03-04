@@ -33,101 +33,20 @@ Selection Foreground `#0b0b0c` inverted contrast
 
 ### Visual Palette
 
-```{=html}
 <table>
-```
-
-```{=html}
-<tr>
-```
-
-```{=html}
-<td style="background:#0b0b0c;width:80px;height:40px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#fcf6de;width:80px;height:40px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#fc855a;width:80px;height:40px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#ffc7b3;width:80px;height:40px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-</tr>
-```
-
-```{=html}
-<tr>
-```
-
-```{=html}
-<td align="center">
-```
-
-# 0b0b0c
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td align="center">
-```
-
-# fcf6de
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td align="center">
-```
-
-# fc855a
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td align="center">
-```
-
-# ffc7b3
-
-```{=html}
-</td>
-```
-
-```{=html}
-</tr>
-```
-
-```{=html}
+  <tr>
+    <td style="background:#0b0b0c;width:80px;height:40px"></td>
+    <td style="background:#fcf6de;width:80px;height:40px"></td>
+    <td style="background:#fc855a;width:80px;height:40px"></td>
+    <td style="background:#ffc7b3;width:80px;height:40px"></td>
+  </tr>
+  <tr>
+    <td align="center"><code>#0b0b0c</code></td>
+    <td align="center"><code>#fcf6de</code></td>
+    <td align="center"><code>#fc855a</code></td>
+    <td align="center"><code>#ffc7b3</code></td>
+  </tr>
 </table>
-```
 
 ---
 
@@ -148,85 +67,28 @@ white `#EFDB8F` pale gold
 
 ### Visual ANSI Palette
 
-```{=html}
 <table>
-```
-
-```{=html}
-<tr>
-```
-
-```{=html}
-<td style="background:#0b0b0c;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#ff4a14;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#FBE266;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#FED32B;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#fc855a;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#fe9267;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#f7c67d;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#EFDB8F;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-</tr>
-```
-
-```{=html}
+  <tr>
+    <td style="background:#0b0b0c;width:70px;height:35px"></td>
+    <td style="background:#ff4a14;width:70px;height:35px"></td>
+    <td style="background:#FBE266;width:70px;height:35px"></td>
+    <td style="background:#FED32B;width:70px;height:35px"></td>
+    <td style="background:#fc855a;width:70px;height:35px"></td>
+    <td style="background:#fe9267;width:70px;height:35px"></td>
+    <td style="background:#f7c67d;width:70px;height:35px"></td>
+    <td style="background:#EFDB8F;width:70px;height:35px"></td>
+  </tr>
+  <tr>
+    <td align="center"><code>#0b0b0c</code></td>
+    <td align="center"><code>#ff4a14</code></td>
+    <td align="center"><code>#FBE266</code></td>
+    <td align="center"><code>#FED32B</code></td>
+    <td align="center"><code>#fc855a</code></td>
+    <td align="center"><code>#fe9267</code></td>
+    <td align="center"><code>#f7c67d</code></td>
+    <td align="center"><code>#EFDB8F</code></td>
+  </tr>
 </table>
-```
 
 ---
 
@@ -247,85 +109,28 @@ bright white `#fcf6de` parchment white
 
 ### Visual Bright Palette
 
-```{=html}
 <table>
-```
-
-```{=html}
-<tr>
-```
-
-```{=html}
-<td style="background:#9c7160;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#ffa085;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#fff4be;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#ffe686;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#ffc7b3;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#ffd3c2;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#feecd1;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-<td style="background:#fcf6de;width:70px;height:35px">
-```
-
-```{=html}
-</td>
-```
-
-```{=html}
-</tr>
-```
-
-```{=html}
+  <tr>
+    <td style="background:#9c7160;width:70px;height:35px"></td>
+    <td style="background:#ffa085;width:70px;height:35px"></td>
+    <td style="background:#fff4be;width:70px;height:35px"></td>
+    <td style="background:#ffe686;width:70px;height:35px"></td>
+    <td style="background:#ffc7b3;width:70px;height:35px"></td>
+    <td style="background:#ffd3c2;width:70px;height:35px"></td>
+    <td style="background:#feecd1;width:70px;height:35px"></td>
+    <td style="background:#fcf6de;width:70px;height:35px"></td>
+  </tr>
+  <tr>
+    <td align="center"><code>#9c7160</code></td>
+    <td align="center"><code>#ffa085</code></td>
+    <td align="center"><code>#fff4be</code></td>
+    <td align="center"><code>#ffe686</code></td>
+    <td align="center"><code>#ffc7b3</code></td>
+    <td align="center"><code>#ffd3c2</code></td>
+    <td align="center"><code>#feecd1</code></td>
+    <td align="center"><code>#fcf6de</code></td>
+  </tr>
 </table>
-```
 
 ---
 
