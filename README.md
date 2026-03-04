@@ -35,10 +35,10 @@ Selection Foreground `#0b0b0c` inverted contrast
 
 <table>
   <tr>
-    <td bgcolor="#0b0b0c" width="80" height="40"></td>
-    <td bgcolor="#fcf6de" width="80" height="40"></td>
-    <td bgcolor="#fc855a" width="80" height="40"></td>
-    <td bgcolor="#ffc7b3" width="80" height="40"></td>
+    <td><img src="palette/0b0b0c.svg" width="80" height="40" alt="#0b0b0c"></td>
+    <td><img src="palette/fcf6de.svg" width="80" height="40" alt="#fcf6de"></td>
+    <td><img src="palette/fc855a.svg" width="80" height="40" alt="#fc855a"></td>
+    <td><img src="palette/ffc7b3.svg" width="80" height="40" alt="#ffc7b3"></td>
   </tr>
   <tr>
     <td align="center"><code>#0b0b0c</code></td>
@@ -69,14 +69,14 @@ white `#EFDB8F` pale gold
 
 <table>
   <tr>
-    <td bgcolor="#0b0b0c" width="70" height="35"></td>
-    <td bgcolor="#ff4a14" width="70" height="35"></td>
-    <td bgcolor="#FBE266" width="70" height="35"></td>
-    <td bgcolor="#FED32B" width="70" height="35"></td>
-    <td bgcolor="#fc855a" width="70" height="35"></td>
-    <td bgcolor="#fe9267" width="70" height="35"></td>
-    <td bgcolor="#f7c67d" width="70" height="35"></td>
-    <td bgcolor="#EFDB8F" width="70" height="35"></td>
+    <td><img src="palette/0b0b0c.svg" width="70" height="35" alt="#0b0b0c"></td>
+    <td><img src="palette/ff4a14.svg" width="70" height="35" alt="#ff4a14"></td>
+    <td><img src="palette/fbe266.svg" width="70" height="35" alt="#FBE266"></td>
+    <td><img src="palette/fed32b.svg" width="70" height="35" alt="#FED32B"></td>
+    <td><img src="palette/fc855a.svg" width="70" height="35" alt="#fc855a"></td>
+    <td><img src="palette/fe9267.svg" width="70" height="35" alt="#fe9267"></td>
+    <td><img src="palette/f7c67d.svg" width="70" height="35" alt="#f7c67d"></td>
+    <td><img src="palette/efdb8f.svg" width="70" height="35" alt="#EFDB8F"></td>
   </tr>
   <tr>
     <td align="center"><code>#0b0b0c</code></td>
@@ -111,14 +111,14 @@ bright white `#fcf6de` parchment white
 
 <table>
   <tr>
-    <td bgcolor="#9c7160" width="70" height="35"></td>
-    <td bgcolor="#ffa085" width="70" height="35"></td>
-    <td bgcolor="#fff4be" width="70" height="35"></td>
-    <td bgcolor="#ffe686" width="70" height="35"></td>
-    <td bgcolor="#ffc7b3" width="70" height="35"></td>
-    <td bgcolor="#ffd3c2" width="70" height="35"></td>
-    <td bgcolor="#feecd1" width="70" height="35"></td>
-    <td bgcolor="#fcf6de" width="70" height="35"></td>
+    <td><img src="palette/9c7160.svg" width="70" height="35" alt="#9c7160"></td>
+    <td><img src="palette/ffa085.svg" width="70" height="35" alt="#ffa085"></td>
+    <td><img src="palette/fff4be.svg" width="70" height="35" alt="#fff4be"></td>
+    <td><img src="palette/ffe686.svg" width="70" height="35" alt="#ffe686"></td>
+    <td><img src="palette/ffc7b3.svg" width="70" height="35" alt="#ffc7b3"></td>
+    <td><img src="palette/ffd3c2.svg" width="70" height="35" alt="#ffd3c2"></td>
+    <td><img src="palette/feecd1.svg" width="70" height="35" alt="#feecd1"></td>
+    <td><img src="palette/fcf6de.svg" width="70" height="35" alt="#fcf6de"></td>
   </tr>
   <tr>
     <td align="center"><code>#9c7160</code></td>
