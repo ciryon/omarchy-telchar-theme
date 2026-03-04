@@ -35,10 +35,10 @@ Selection Foreground `#0b0b0c` inverted contrast
 
 <table>
   <tr>
-    <td style="background:#0b0b0c;width:80px;height:40px"></td>
-    <td style="background:#fcf6de;width:80px;height:40px"></td>
-    <td style="background:#fc855a;width:80px;height:40px"></td>
-    <td style="background:#ffc7b3;width:80px;height:40px"></td>
+    <td bgcolor="#0b0b0c" width="80" height="40"></td>
+    <td bgcolor="#fcf6de" width="80" height="40"></td>
+    <td bgcolor="#fc855a" width="80" height="40"></td>
+    <td bgcolor="#ffc7b3" width="80" height="40"></td>
   </tr>
   <tr>
     <td align="center"><code>#0b0b0c</code></td>
@@ -69,14 +69,14 @@ white `#EFDB8F` pale gold
 
 <table>
   <tr>
-    <td style="background:#0b0b0c;width:70px;height:35px"></td>
-    <td style="background:#ff4a14;width:70px;height:35px"></td>
-    <td style="background:#FBE266;width:70px;height:35px"></td>
-    <td style="background:#FED32B;width:70px;height:35px"></td>
-    <td style="background:#fc855a;width:70px;height:35px"></td>
-    <td style="background:#fe9267;width:70px;height:35px"></td>
-    <td style="background:#f7c67d;width:70px;height:35px"></td>
-    <td style="background:#EFDB8F;width:70px;height:35px"></td>
+    <td bgcolor="#0b0b0c" width="70" height="35"></td>
+    <td bgcolor="#ff4a14" width="70" height="35"></td>
+    <td bgcolor="#FBE266" width="70" height="35"></td>
+    <td bgcolor="#FED32B" width="70" height="35"></td>
+    <td bgcolor="#fc855a" width="70" height="35"></td>
+    <td bgcolor="#fe9267" width="70" height="35"></td>
+    <td bgcolor="#f7c67d" width="70" height="35"></td>
+    <td bgcolor="#EFDB8F" width="70" height="35"></td>
   </tr>
   <tr>
     <td align="center"><code>#0b0b0c</code></td>
@@ -111,14 +111,14 @@ bright white `#fcf6de` parchment white
 
 <table>
   <tr>
-    <td style="background:#9c7160;width:70px;height:35px"></td>
-    <td style="background:#ffa085;width:70px;height:35px"></td>
-    <td style="background:#fff4be;width:70px;height:35px"></td>
-    <td style="background:#ffe686;width:70px;height:35px"></td>
-    <td style="background:#ffc7b3;width:70px;height:35px"></td>
-    <td style="background:#ffd3c2;width:70px;height:35px"></td>
-    <td style="background:#feecd1;width:70px;height:35px"></td>
-    <td style="background:#fcf6de;width:70px;height:35px"></td>
+    <td bgcolor="#9c7160" width="70" height="35"></td>
+    <td bgcolor="#ffa085" width="70" height="35"></td>
+    <td bgcolor="#fff4be" width="70" height="35"></td>
+    <td bgcolor="#ffe686" width="70" height="35"></td>
+    <td bgcolor="#ffc7b3" width="70" height="35"></td>
+    <td bgcolor="#ffd3c2" width="70" height="35"></td>
+    <td bgcolor="#feecd1" width="70" height="35"></td>
+    <td bgcolor="#fcf6de" width="70" height="35"></td>
   </tr>
   <tr>
     <td align="center"><code>#9c7160</code></td>
